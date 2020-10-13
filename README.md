@@ -1,2 +1,0 @@
-# IamTesting
- For class
